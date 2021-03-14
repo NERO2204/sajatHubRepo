@@ -1,1 +1,2 @@
 # sajatHubRepo
+Specifikacio megirasa
