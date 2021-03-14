@@ -1,4 +1,8 @@
 A fejlesztés elkezdödött
 folytatodik a fejlesztés
+<<<<<<< HEAD
 csinositjuk a projektet
 fejlesztes befejezese
+=======
+fejlesztes befejezve
+>>>>>>> e92c36bb129c4cbe818f7d763f08d511f5d01e22
