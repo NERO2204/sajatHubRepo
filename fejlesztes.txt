@@ -1,2 +1,4 @@
 A fejlesztés elkezdödött
 folytatodik a fejlesztés
+csinositjuk a projektet
+fejlesztes befejezese
